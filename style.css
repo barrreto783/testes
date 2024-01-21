@@ -1,0 +1,37 @@
+@font-face {
+    font-family:'Adelis';
+    src: url('adelia.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+a{
+    color: rgb(11, 50, 78);
+    text-align: left;
+}
+body{
+    background-color: blue;
+}
+.principal{
+    font-family:'Adelis';
+    text-align: center;
+    font-size: 3em;
+    color: white;
+    background-color: yellowgreen;
+}
+.link{
+    color: black;
+    text-decoration: none;
+}
+p{
+    text-align: center;
+    font-family:'Adelis';
+    font-style: italic;
+    font-size: 1.5em;
+    color:rgb(94, 17, 17);
+}
+
+
+main{
+    background-color: white;
+    margin: auto;
+}
